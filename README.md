@@ -4,5 +4,5 @@
 ---
 
 ### To keep myself accountable
-[Daily Notes]()
-[Log](https://github.com/DummyKen/30daysPython/blob/main/log.md)
+- #### [Daily Notes]()
+- #### [Log](https://github.com/DummyKen/30daysPython/blob/main/log.md)

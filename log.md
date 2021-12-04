@@ -19,6 +19,12 @@
 #### 2/12/21
 - Nothin
 
+#### 3/12/21
+- Chill day
+
+#### 4/12/21
+- Tried to do something but decided to just finish basic syntax and only then I will attempt to do things.
+
 
 
 

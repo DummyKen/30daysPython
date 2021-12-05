@@ -25,6 +25,8 @@
 #### 4/12/21
 - Tried to do something but decided to just finish basic syntax and only then I will attempt to do things.
 
+#### 5/12/21
+- Just mosh's course and challenge he gave us. Will def do 5 codewars problems next week.
 
 
 

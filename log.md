@@ -28,5 +28,8 @@
 #### 5/12/21
 - Just mosh's course and challenge he gave us. Will def do 5 codewars problems next week.
 
+#### 5/12/21
+- 3 codewars challenges
+
 
 

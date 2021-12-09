@@ -28,8 +28,15 @@
 #### 5/12/21
 - Just mosh's course and challenge he gave us. Will def do 5 codewars problems next week.
 
-#### 5/12/21
+#### 6/12/21
 - 3 codewars challenges
 
+#### 7/12/21
+- 1 codewars Python
 
+#### 8/12/21
+- Not solved but tried
+
+#### 9/12/21
+- Just learnt about some data structures.
 

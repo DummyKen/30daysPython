@@ -40,3 +40,5 @@
 #### 9/12/21
 - Just learnt about some data structures.
 
+#### 10/12/21
+- Learnt about stacks,queues and tuples.

@@ -42,3 +42,16 @@
 
 #### 10/12/21
 - Learnt about stacks,queues and tuples.
+
+#### 11/12/21
+- Learnt about arrays and memory(*CSdojo's DSA*)
+- Codewars
+  - [Quater of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af)
+      - **8kyu**
+      - (*solved*)
+  - [Wolf in sheep's clothing](https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15/)
+      - **8kyu**
+      - (*solved*)
+  - [Convert number to array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
+      - **8kyu**
+      - (*solved*)

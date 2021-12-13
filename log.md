@@ -55,3 +55,9 @@
   - [Convert number to array of digits](https://www.codewars.com/kata/5583090cbe83f4fd8c000051)
       - **8kyu**
       - (*solved*)
+#### 13/12/21
+- Learnt about objects and classes
+- Codewars
+  - [Sum of two largest numbers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/solutions/python)
+    - **7kyu**
+    - (*solved*)

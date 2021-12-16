@@ -61,3 +61,13 @@
   - [Sum of two largest numbers](https://www.codewars.com/kata/558fc85d8fd1938afb000014/solutions/python)
     - **7kyu**
     - (*solved*)
+I was just bored to just fill out in here but I did work out on codewars everyday for the post week.
+
+#### 16/12/21
+- Codewars
+  - [Even or odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python)
+    - (*solved*)
+  - [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python)
+    - (*solved*)
+  - [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python)
+    - (*solved*)

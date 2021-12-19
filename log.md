@@ -71,3 +71,5 @@ I was just bored to just fill out in here but I did work out on codewars everyda
     - (*solved*)
   - [Isograms](https://www.codewars.com/kata/54ba84be607a92aa900000f1/train/python)
     - (*solved*)
+#### 19/12/21
+- Trying to cope with surfacing depression and guilt
